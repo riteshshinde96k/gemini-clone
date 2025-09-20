@@ -1,10 +1,10 @@
-# Gemini Clone - AI Chat Application
+# Gemini Clone -
 
 A responsive React.js frontend for a Gemini-style conversational AI chat application.
 
 ## 🚀 Live Demo
 
-*Deployment URL will be added after hosting on Vercel/Netlify*
+*https://gemini-clone-gilt-eight.vercel.app/auth*
 
 ## 📋 Key Features
 
@@ -96,20 +96,3 @@ npm run build
 - **Mock Data**: Pre-populated dummy messages for demonstration
 - **Simulated Delays**: Realistic AI response timing
 
-## 🚀 Deployment
-
-Ready for deployment on Vercel or Netlify with optimized production build.
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 📧 Contact
-
-For any questions or feedback regarding this project, please feel free to reach out.
-
----
-
-**Built for Kuvaka Tech Frontend Developer Assignment**
-
-*This project demonstrates proficiency in React.js, Redux, modern UI/UX design, and frontend development best practices.*
