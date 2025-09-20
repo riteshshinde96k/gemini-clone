@@ -1,4 +1,4 @@
-# Gemini Clone -
+# Gemini Clone 
 
 A responsive React.js frontend for a Gemini-style conversational AI chat application.
 
